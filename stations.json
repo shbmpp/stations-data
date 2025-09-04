@@ -13,7 +13,7 @@
    { "stationCode": "KLYM", "hindiName": "कल्याणी सीमान्त", "englishName": "KALYANI SIMANTA", "regionalName": "কল্যাণী সীমান্ত", "stateCode": 19, "isFC": false, "isSubUrban": true },
    { "stationCode": "RHA", "hindiName": "रानाघाट जं", "englishName": "RANAGHAT JN.", "regionalName": "রানাঘাট জং.", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "GEDE", "hindiName": "गेदे", "englishName": "GEDE", "regionalName": "গেদে", "stateCode": 19, "isFC": false, "isSubUrban": true },
-      { "stationCode": "BLH", "hindiName": "बेलघरिया", "englishName": "BELGHARIA", "regionalName": "বেলঘরিয়া", "stateCode": 19, "isFC": true, "isSubUrban": true },
+   { "stationCode": "BLH", "hindiName": "बेलघरिया", "englishName": "BELGHARIA", "regionalName": "বেলঘরিয়া", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "AGP", "hindiName": "अगरपारा", "englishName": "AGARPARA", "regionalName": "আগরপাড়া", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "TGH", "hindiName": "टीटागढ़", "englishName": "TITAGARH", "regionalName": "টিটাগড়", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "PTF", "hindiName": "पलता", "englishName": "PALTA", "regionalName": "পলতা", "stateCode": 19, "isFC": true, "isSubUrban": true },
