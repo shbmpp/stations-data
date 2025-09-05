@@ -235,6 +235,7 @@
    { "stationCode": "KPLE", "hindiName": "कोपाई", "englishName": "KOPAI", "regionalName": "কোপাই", "stateCode": 19, "isFC": false, "isSubUrban": false },
    { "stationCode": "BSLE", "hindiName": "बातासपुर", "englishName": "BATASPUR", "regionalName": "বাতাসপুর", "stateCode": 19, "isFC": false, "isSubUrban": false },
    { "stationCode": "GHLE", "hindiName": "गदाधरपुर", "englishName": "GADADHARPUR", "regionalName": "গদাধরপুর", "stateCode": 19, "isFC": false, "isSubUrban": false },
+   { "stationCode": "NHT", "hindiName": "नलहाटि जं.", "englishName": "NALHATI JN.", "regionalName": "নলহাটি জং.", "stateCode": 19, "isFC": false, "isSubUrban": false },
    { "stationCode": "MLV", "hindiName": "मल्लालपुर", "englishName": "MALLALPUR", "regionalName": "মল্লালপুর", "stateCode": 19, "isFC": false, "isSubUrban": false },
    { "stationCode": "TPH", "hindiName": "तारापीठ रोड", "englishName": "TARAPITH ROAD", "regionalName": "তারাপীঠ রোড", "stateCode": 19, "isFC": false, "isSubUrban": false },
    { "stationCode": "SDLE", "hindiName": "स्वदिनपुर", "englishName": "SWADINPUR", "regionalName": "স্বদিনপুর", "stateCode": 19, "isFC": false, "isSubUrban": false },
