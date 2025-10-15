@@ -62,6 +62,7 @@
    { "stationCode": "JDP", "hindiName": "जादबपुर", "englishName": "JADABPUR", "regionalName": "যাদবপুর", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "DHK", "hindiName": "ढाकुरिया", "englishName": "DHAKURIA", "regionalName": "ঢাকুরিয়া", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "PQS", "hindiName": "पार्क सर्कस", "englishName": "PARK CIRCUS", "regionalName": "পার্ক সার্কাস", "stateCode": 19, "isFC": true, "isSubUrban": true },
+   { "stationCode": "CHT", "hindiName": "चाम्पाहादि", "englishName": "CHAMPAHATI", "regionalName": "চাম্পাহাটি", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "MMG", "hindiName": "मध्यमग्राम", "englishName": "MADHYAMGRAM", "regionalName": "মধ্যমগ্রাম", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "NBE", "hindiName": "न्यू बैरकपुर", "englishName": "NEW BARRACKPORE", "regionalName": "নিউ ব্যারাকপুর", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "BRPK", "hindiName": "बिशरपारा-कोदालिया", "englishName": "BISHARPARA-KODALIYA", "regionalName": "বিশরপাড়া-কোদালিয়া", "stateCode": 19, "isFC": true, "isSubUrban": true },
