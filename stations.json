@@ -1,5 +1,5 @@
 [
-   { "stationCode": "BWN", "hindiName": "बर्द्धमान जं", "englishName": "BARDDHAMAN", "regionalName": "বর্দ্ধমান", "stateCode": 19, "isFC": false, "isSubUrban": true },
+   { "stationCode": "BWN", "hindiName": "बर्द्धमान जं", "englishName": "BARDDHAMAN jn.", "regionalName": "বর্দ্ধমান", "stateCode": 19, "isFC": false, "isSubUrban": true },
    { "stationCode": "DHN", "hindiName": "धनबाद जं", "englishName": "DHANBAD JN.", "regionalName": null, "stateCode": 20, "isFC": false, "isSubUrban": false },
    { "stationCode": "NDAE", "hindiName": "नबद्बीप धाम", "englishName": "NABADWIP DHAM", "regionalName": "নবদ্বীপ ধাম", "stateCode": 19, "isFC": false, "isSubUrban": true },
    { "stationCode": "JIT", "hindiName": "जिराट", "englishName": "JIRAT", "regionalName": "জিরাট", "stateCode": 19, "isFC": false, "isSubUrban": true },
