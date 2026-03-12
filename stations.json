@@ -112,7 +112,7 @@
    { "stationCode": "UPA", "hindiName": "उत्तरपारा", "englishName": "UTTARPARA", "regionalName": "উত্তরপাড়া", "stateCode": 19, "isFC": false, "isSubUrban": true },
    { "stationCode": "DEA", "hindiName": "दियारा", "englishName": "DIARA", "regionalName": "দিয়ারা", "stateCode": 19, "isFC": false, "isSubUrban": true },
    { "stationCode": "SUI", "hindiName": "सिंगुर", "englishName": "SINGUR", "regionalName": "সিঙ্গুর", "stateCode": 19, "isFC": false, "isSubUrban": true },
-   { "stationCode": "HPA", "hindiName": "हरिपाल", "englishName": "HARIPAL", "regionalName": "হরিপাল", "stateCode": 19, "isFC": false, "isSubUrban": true },
+   { "stationCode": "HPL", "hindiName": "हरिपाल", "englishName": "HARIPAL", "regionalName": "হরিপাল", "stateCode": 19, "isFC": false, "isSubUrban": true },
    { "stationCode": "NKL", "hindiName": "नलिकुल", "englishName": "NALIKUL", "regionalName": "নালিকুল", "stateCode": 19, "isFC": false, "isSubUrban": true },
    { "stationCode": "MLYA", "hindiName": "मालिया हाल्ट", "englishName": "MALIYA HALT", "regionalName": "মালিয়া হল্ট", "stateCode": 19, "isFC": false, "isSubUrban": true },
    { "stationCode": "LOK", "hindiName": "लोकनाथ", "englishName": "LOKNATH", "regionalName": "লোকনাথ", "stateCode": 19, "isFC": false, "isSubUrban": true },
