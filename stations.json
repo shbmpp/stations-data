@@ -86,7 +86,7 @@
    { "stationCode": "SDAH", "hindiName": "शियालदह", "englishName": "SEALDAH", "regionalName": "শিয়ালদহ", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "DKAE", "hindiName": "डानकुनि जं", "englishName": "DANKUNI", "regionalName": "ডানকুনি", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "RCD", "hindiName": "राजचन्द्रपुर", "englishName": "RAJCHANDRAPUR", "regionalName": "রাজচন্দ্রপুর", "stateCode": 19, "isFC": true, "isSubUrban": true },
-   { "stationCode": "BARN", "hindiName": "बड़ाह नगर", "englishName": "BARAH NAGAR", "regionalName": "বরাহ নগর", "stateCode": 19, "isFC": true, "isSubUrban": true },
+   { "stationCode": "BARN", "hindiName": "बड़ाह नगर", "englishName": "BARANAGAR ROAD", "regionalName": "বরাহ নগর", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "BLYG", "hindiName": "बालि घाट", "englishName": "BALLY GHAT", "regionalName": "বালি ঘাট", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "DAKE", "hindiName": "दक्षिणेश्वर", "englishName": "DAKSHINESWAR", "regionalName": "দক্ষিণেশ্বর", "stateCode": 19, "isFC": true, "isSubUrban": true },
    { "stationCode": "HNB", "hindiName": "हासनाबाद जं", "englishName": "HASNABAD JN.", "regionalName": "হাসনাবাদ জং.", "stateCode": 19, "isFC": false, "isSubUrban": true },
